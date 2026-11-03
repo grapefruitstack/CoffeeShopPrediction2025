@@ -2,7 +2,7 @@
 Python predictive modeling project analyzing coffee shop sales data. Uses Pandas and Scikit-learn to explore purchasing patterns based on time of day and each month.
 
 
-# Overview 
+## Overview 
 This project uses coffee shop sales data to identify purchasing patterns and develop machine learning models to predict which coffee drink a customer will purchase. 
 
 ## Highlights
